@@ -33,7 +33,6 @@ We'll be using the following APIs in this workshop:
 - [Simple Counter (useContext)](https://codesandbox.io/s/18qqxmkx8j)
 - [Simple Counter (Custom Hook)](https://codesandbox.io/s/omm3mpqm6)
 - [Simple Counter (useReducer)](https://codesandbox.io/s/v39l639vn3)
-- [Simple Counter (Redux)](https://codesandbox.io/s/r7z1y573qm)
 - [useLocalStorage Hook](https://codesandbox.io/s/e4s2j)
 - [useAjax Hook](https://codesandbox.io/s/29vhg)
 - [Asynchronous State](https://codesandbox.io/s/6z2rkmx6k)
