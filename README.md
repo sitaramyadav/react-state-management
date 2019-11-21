@@ -8,15 +8,22 @@ Install these tools in your browser of choice. I'll be using Chrome during the w
 
 - [React Developer Tools](https://github.com/facebook/react-devtools)
 
+## Slides
+
+You can find the slides [here](https://speakerdeck.com/stevekinney/react-state).
+
 ## Respositories
 
 Make sure to run `npm install` in each repository.
 
 - [Simple Counter](https://github.com/stevekinney/simple-counter-react-state)
 - [Grudge List](https://github.com/stevekinney/grudges-react-state)
-- [Kanbananza](https://github.com/stevekinney/kanbananza-react-state)
 - [Star Wars Characters](https://github.com/stevekinney/star-wars-characters-react-state)
 - [Awesome Unicorn Startup Sign Up](https://github.com/stevekinney/user-signup-react-state)
+
+### Just for Reference
+
+- [Kanbananza](https://github.com/stevekinney/kanbananza-react-state)
 
 ## APIs
 
@@ -26,6 +33,8 @@ We'll be using the following APIs in this workshop:
 - [Tweet Stream](https://tweet-stream.glitch.me/)
 
 ## Code Sandbox Example Implementations
+
+These are just for reference.
 
 - [Simple Counter (Boilerplate)](https://codesandbox.io/s/m7vm5wqjoy)
 - [Simple Counter (Basic State)](https://codesandbox.io/s/m4xq2j3p5j)
