@@ -44,6 +44,7 @@ These are just for reference.
 - [Simple Counter (useReducer)](https://codesandbox.io/s/v39l639vn3)
 - [useLocalStorage Hook](https://codesandbox.io/s/e4s2j)
 - [Grudge List](https://codesandbox.io/s/github/stevekinney/grudges-react-state)
+- [Star Wars Characters](https://codesandbox.io/s/github/stevekinney/star-wars-characters-react-state)
 - [useAjax Hook](https://codesandbox.io/s/29vhg)
 - [Asynchronous State](https://codesandbox.io/s/6z2rkmx6k)
 - [Asynchronous State (with Hooks)](https://codesandbox.io/s/zx54l1kzpl)
